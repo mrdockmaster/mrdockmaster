@@ -8,5 +8,4 @@
 mrdockmaster/mrdockmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Badge Finning Chile](https://img.shields.io/badge/-Finning%20Chile-gray?style=for-the-badge&logo=caterpillar&logoColor=white&logoWidth=40&labelColor=%23FFCD11)
 
